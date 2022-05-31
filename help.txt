@@ -1,0 +1,8 @@
+git add *
+git commit -m ""
+git push origin backend or git push 
+
+--------------
+to pull updated repo after push
+==?
+git pull origin backend
